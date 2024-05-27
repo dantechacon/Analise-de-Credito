@@ -30,4 +30,6 @@ Neste desafio, foram realizadas diversas consultas por meio do SQL (no Athena - 
 [CC Analysis](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors)
 
 ### Conclusões:
-Em construção.
+- Há uma baixa representatividade de mulheres dentre as pessoas com acesso ao cartáo de crédito.
+- A renda média dos públicos feminino e masculino é bem similar, assim como a situação empregatícia.
+- Há fortes indícios demográficos de que o público feminino, atualmente, pouco explorado, pode apresentar um alto índice de uso do crédito e produtos financeiros como seguro (para propriedades) e investimentos (devido à alta renda média), por exemplo.

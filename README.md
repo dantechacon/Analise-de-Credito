@@ -27,7 +27,7 @@ Neste desafio, foram realizadas diversas consultas por meio do SQL (no Athena - 
    - Analisar a correlação entre a elegibilidade para cartão de crédito e outras variáveis, como idade, renda total, e tipo de ocupação.
 
 ### Dataset:
-<a href=“https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors“>CC Analysis</a>
+[CC Analysis](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors)
 
 ### Conclusões:
 Em construção.
